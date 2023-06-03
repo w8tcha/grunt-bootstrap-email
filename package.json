@@ -1,0 +1,38 @@
+{
+  "name": "grunt-bootstrap-email",
+  "description": "Grunt plugin for Bootrap Email",
+  "version": "0.0.1",
+  "homepage": "https://github.com/w8tcha/grunt-bootstrap-email",
+  "author": {
+    "name": "Ingo",
+    "email": "thewatcher@watchersnet.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/w8tcha/grunt-bootstrap-email.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w8tcha/grunt-bootstrap-email/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/w8tcha/grunt-bootstrap-email/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
